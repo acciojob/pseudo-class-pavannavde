@@ -1,9 +1,9 @@
 /*  your css code here. If applicable */
-p span:first-child{
+div span:first-child{
 	color:red;
 	font-size:20px;
 }
-p span:last-child{
+div span:last-child{
 	color: red;
 	font-size:20px;
 }
