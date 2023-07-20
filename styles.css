@@ -1,9 +1,9 @@
 /*  your css code here. If applicable */
-div span:first-child{
+div i:first-child{
 	color:rgb(255,73,58);
 	font-size:20px;
 }
-div span:last-child{
+div i:last-child{
 	color: rgb(255,73,58);
 	font-size:20px;
 }
